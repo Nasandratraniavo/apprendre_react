@@ -1,5 +1,5 @@
-import ShoppingCart from "./components/updateArray/increasing";
+import TaskApp from './components/updateArray/todo/toDo';
 
 export default function App() {
-  return <ShoppingCart></ShoppingCart>;
+  return <TaskApp></TaskApp>;
 }
