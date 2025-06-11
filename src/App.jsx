@@ -1,5 +1,5 @@
-import TaskApp from './components/updateArray/todo/toDo';
+import EditProfile from './components/reactingInpSt/2exercise';
 
 export default function App() {
-  return <TaskApp></TaskApp>;
+  return <EditProfile></EditProfile>;
 }
