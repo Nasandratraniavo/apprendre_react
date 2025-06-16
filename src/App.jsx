@@ -1,5 +1,5 @@
-import EditProfile from './components/reactingInpSt/2exercise';
+import Swapping from "./components/preserveReset/swapping";
 
 export default function App() {
-  return <EditProfile></EditProfile>;
+  return <Swapping></Swapping>;
 }
