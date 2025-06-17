@@ -1,5 +1,5 @@
-import Gallery from './components/preserveReset/nextImage';
+import Messenger from './components/usingReducer/chat/base';
 
 export default function App() {
-  return <Gallery></Gallery>;
+  return <Messenger></Messenger>;
 }
