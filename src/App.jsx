@@ -1,5 +1,5 @@
-import Swapping from "./components/preserveReset/swapping";
+import Gallery from './components/preserveReset/nextImage';
 
 export default function App() {
-  return <Swapping></Swapping>;
+  return <Gallery></Gallery>;
 }
